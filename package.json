@@ -1,0 +1,15 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "A simple contact list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipali",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "flux": "^3.1.3"
+  }
+}
